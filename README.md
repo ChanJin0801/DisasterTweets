@@ -7,3 +7,6 @@ https://www.kaggle.com/c/nlp-getting-started
 
 ## Dataset
 https://www.kaggle.com/c/nlp-getting-started/data
+
+## Source
+https://www.kaggle.com/shahules/basic-eda-cleaning-and-glove
